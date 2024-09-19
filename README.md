@@ -26,7 +26,7 @@ EXPRESS bhailog, url parsing ma krta ho tum log aur cheeso pa dehan do
 
 npm i nodemon
 
-Tut#71
+Backend Tutorial: Writing our first Express App | Web Development Tutorials #71
 ```
 const express = require("express");
 const app = express();
@@ -52,6 +52,13 @@ app.listen(port, ()=>{
 });
 
 ```
+
+Backend Tutorial: Static Files & Installing Pug template engine | Web Development Tutorials #72
+
+template engine express pug
+npm install pug
+
+
 
 
 
