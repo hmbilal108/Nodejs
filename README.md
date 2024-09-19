@@ -27,7 +27,7 @@ EXPRESS bhailog, url parsing ma krta ho tum log aur cheeso pa dehan do
 npm i nodemon
 
 Tut#71
-'''
+```
 const express = require("express");
 const app = express();
 const port = 80;
@@ -51,7 +51,7 @@ app.listen(port, ()=>{
     console.log(`The application started successfully on port ${port}`);
 });
 
-'''
+```
 
 
 
