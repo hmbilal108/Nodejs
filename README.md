@@ -1,5 +1,5 @@
 # Nodejs
-npm install nodemon 
+npm install nodemon (restarts server automatically) 
 
 why? 
 
