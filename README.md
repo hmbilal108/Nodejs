@@ -58,7 +58,7 @@ Backend Tutorial: Static Files & Installing Pug template engine | Web Developmen
 template engine express pug
 npm install pug
 
-*Modules
+* Modules (require and module.exports)   (import in react, #include in c++)
 * fs
 * express
 * mockaroo
