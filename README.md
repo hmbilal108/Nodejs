@@ -58,30 +58,12 @@ Backend Tutorial: Static Files & Installing Pug template engine | Web Developmen
 template engine express pug
 npm install pug
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Modules
+* fs
+* express
+* mockaroo
+* postman
+* middleware
 
 
 
